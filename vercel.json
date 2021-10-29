@@ -1,5 +1,5 @@
 {
-  "name": "guilyx/guilyx",
+  "name": "DR34M-M4K3R/DR34M-M4K3R",
   "version": 2,
   "rewrites": [{ "source": "/(.*)", "destination": "/api/$1" }]
 }
