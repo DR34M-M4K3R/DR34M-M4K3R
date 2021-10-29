@@ -34,6 +34,11 @@ note: thanks to both of them!
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#5569](https://github.com/yairm210/Unciv/pull/5569) in [yairm210/Unciv](https://github.com/yairm210/Unciv)
+2. 💪 Opened PR [#31](https://github.com/lnxcz/nitro-generator/pull/31) in [lnxcz/nitro-generator](https://github.com/lnxcz/nitro-generator)
+3. 🎉 Merged PR [#1](https://github.com/DR34M-M4K3R/perfectNumberCalculator/pull/1) in [DR34M-M4K3R/perfectNumberCalculator](https://github.com/DR34M-M4K3R/perfectNumberCalculator)
+4. 💪 Opened PR [#1](https://github.com/DR34M-M4K3R/perfectNumberCalculator/pull/1) in [DR34M-M4K3R/perfectNumberCalculator](https://github.com/DR34M-M4K3R/perfectNumberCalculator)
+<!--END_SECTION:activity-->
 
 
 <!--START_SECTION:waka-->
