@@ -35,9 +35,6 @@ note: thanks to both of them!
 
 <!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
 
