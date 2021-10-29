@@ -1,57 +1,25 @@
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/wakatime-stats/badge.svg)](https://github.com/guilyx/guilyx/actions)
-[![Actions Status](https://github.com/guilyx/guilyx/workflows/update-gh-activity/badge.svg)](https://github.com/guilyx/guilyx/actions)
-![](https://visitor-badge.glitch.me/badge?page_id=guilyx.guilyx)
+[![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/wakatime-stats/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
+[![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/update-gh-activity/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
+![](https://visitor-badge.glitch.me/badge?page_id=DR34M-M4K3R.DR34M-M4K3R)
+
+
+
+
 
 <p align="center">
-<br/>
-<a href="https://twitter.com/spida_rwin">
-  <img alt="guilyx | Twitter" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111703.svg" />
-</a>
-<a href="https://www.linkedin.com/in/erwinlejeune-lkn">
-  <img alt="guilyx's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-<a href="https://www.facebook.com/erwin.lejeune">
-  <img alt="guilyx's Facebook" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111342.svg" />
-</a>
-<a href="https://www.instagram.com/spid_erwin">
-  <img alt="guilyx's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-<a href="https://open.spotify.com/user/11147618695?si=zZFn6uAGRLyoU02lsG50GA">
-  <img alt="guilyx's Spotify" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111627.svg" />
-</a>
-</p>
-
-```yaml
-name: Erwin Lejeune
-located_in: Odense, Denmark
-from: Nantes (France)
-education: ["Master's in Robotics", "Master's in Embedded Systems", "Bachelor's in Electronics"]
-job: Robotics Software Engineer
-company: Coalescent Mobile Robotics
-
-technical_interests: ["Planning", "Path Following", "Obstacle Avoidance", 
-                      "Object Detection", "Sensor Fusion", "SLAM"]
-currently_learning: ["Behaviour Trees", "PetriNets"]
-hobbies: ["Basketball", "Cinema", "Rapsberry Pi Dumb Projects",
-          "Making Alexa do/say dumb stuff", "Anything dumb and useless"]
-
-relocation_interests: ["Japan", "Singapore", "California", "NYC", "Taiwan"]
-```
-
-<p align="center">
-  <img alig src="https://github-profile-trophy.vercel.app/?username=guilyx&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+  <img alig src="https://github-profile-trophy.vercel.app/?username=DR34M-M4K3R&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
 
 
 <p align="center">
-  <a href="https://guilyx.vercel.app/api/now-playing?open">
+  <a href="https://readme-chi.vercel.app//api/now-playing?open">
     <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://guilyx.vercel.app/api/now-playing">
+    <img src="https://readme-chi.vercel.app//api/now-playing">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://guilyx.vercel.app/api/top-played">
+  <img src="https://readme-chi.vercel.app//api/top-played">
 </p>
  
 ```yaml
