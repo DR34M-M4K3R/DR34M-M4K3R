@@ -1,6 +1,16 @@
+![banner](https://user-images.githubusercontent.com/67145585/139498733-a94b01bd-717d-4698-b6fc-7838a2600b84.png)
 [![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/wakatime-stats/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
 [![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/update-gh-activity/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
 ![](https://visitor-badge.glitch.me/badge?page_id=DR34M-M4K3R.DR34M-M4K3R)
+
+banner: https://github.com/liyasthomas/banner
+
+
+
+<p align="center">
+  <a href="https://discord.gg/FPhHhBG25d">
+  <img alig src="https://discordapp.com/api/guilds/858046559316344852/widget.png?style=banner3" />
+</p>
 
 
 
@@ -23,11 +33,9 @@
 </p>
  
 ```yaml
-section: spotify components info
 tutorial_path: guilyx/guilyx/how-to.md
 original_idea: natemoo-re
 improved_by: andyruwruw
-note: thanks to both of them!
 ```
 
 
