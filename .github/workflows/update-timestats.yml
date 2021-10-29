@@ -1,7 +1,7 @@
 name: wakatime-stats
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '48 19 * * *'
 
 jobs:
   update-readme:
