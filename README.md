@@ -81,10 +81,11 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     7 mins              ██████████████░░░░░░░░░░░   57.71% 
+Other                    5 mins              ██████████░░░░░░░░░░░░░░░   42.29%
 
 ```
 
 
- Last Updated on 19/12/2021
+ Last Updated on 20/12/2021
 <!--END_SECTION:waka-->
