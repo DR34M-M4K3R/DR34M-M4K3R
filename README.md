@@ -81,11 +81,10 @@ Sunday       51 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     27 mins             ███████████████░░░░░░░░░░   62.26% 
-CSS                      16 mins             █████████░░░░░░░░░░░░░░░░   37.74%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 01/01/2022
+ Last Updated on 02/01/2022
 <!--END_SECTION:waka-->
