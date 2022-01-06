@@ -46,10 +46,10 @@ improved_by: andyruwruw
 2. 💪 Opened PR [#1](https://github.com/DR34M-M4K3R/DNA_Encoder/pull/1) in [DR34M-M4K3R/DNA_Encoder](https://github.com/DR34M-M4K3R/DNA_Encoder)
 3. 💪 Opened PR [#5569](https://github.com/yairm210/Unciv/pull/5569) in [yairm210/Unciv](https://github.com/yairm210/Unciv)
 4. 💪 Opened PR [#1](https://github.com/DR34M-M4K3R/perfectNumberCalculator/pull/1) in [DR34M-M4K3R/perfectNumberCalculator](https://github.com/DR34M-M4K3R/perfectNumberCalculator)
-<!--END_SECTION:activity-->
+<!--END_SECTION:activity SUSPEND...-->
 
 
-<!--START_SECTION:waka-->
+<!--START_SECTION:waka SUSPEND...-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
@@ -87,4 +87,4 @@ No Activity Tracked This Week
 
 
  Last Updated on 05/01/2022
-<!--END_SECTION:waka-->
+<!--END_SECTION:waka SUSPEND...-->
