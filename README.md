@@ -1,3 +1,4 @@
+
 ![banner](https://user-images.githubusercontent.com/67145585/139498733-a94b01bd-717d-4698-b6fc-7838a2600b84.png)
 [![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/wakatime-stats/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
 [![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/update-gh-activity/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
@@ -41,53 +42,13 @@ improved_by: andyruwruw
 
 **:zap: Recent Activity:**
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DR34M-M4K3R/DNA_Encoder/pull/1) in [DR34M-M4K3R/DNA_Encoder](https://github.com/DR34M-M4K3R/DNA_Encoder)
-2. 💪 Opened PR [#1](https://github.com/DR34M-M4K3R/DNA_Encoder/pull/1) in [DR34M-M4K3R/DNA_Encoder](https://github.com/DR34M-M4K3R/DNA_Encoder)
-<!--END_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/DR34M-M4K3R/DNA_Encoder/pull/1) in [DR34M-M4K3R/DNA_Encoder](https://github.com/DR34M-M4K3R/DNA_Encoder)
-2. 💪 Opened PR [#1](https://github.com/DR34M-M4K3R/DNA_Encoder/pull/1) in [DR34M-M4K3R/DNA_Encoder](https://github.com/DR34M-M4K3R/DNA_Encoder)
-3. 💪 Opened PR [#5569](https://github.com/yairm210/Unciv/pull/5569) in [yairm210/Unciv](https://github.com/yairm210/Unciv)
-4. 💪 Opened PR [#1](https://github.com/DR34M-M4K3R/perfectNumberCalculator/pull/1) in [DR34M-M4K3R/perfectNumberCalculator](https://github.com/DR34M-M4K3R/perfectNumberCalculator)
+<!--START_SECTION:activity SUSPEND...-->
+
 <!--END_SECTION:activity SUSPEND...-->
 
 
 <!--START_SECTION:waka SUSPEND...-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-20%20Thousand%20lines%20of%20code-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.45% 
-🌆 Daytime    179 commits    ████████████░░░░░░░░░░░░░   48.77% 
-🌃 Evening    165 commits    ███████████░░░░░░░░░░░░░░   44.96% 
-🌙 Night      3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.82%
-
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday       48 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
-Tuesday      95 commits     ██████░░░░░░░░░░░░░░░░░░░   25.89% 
-Wednesday    46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.53% 
-Thursday     70 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.07% 
-Friday       15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.09% 
-Saturday     42 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.44% 
-Sunday       51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-```
-
-
- Last Updated on 05/01/2022
 <!--END_SECTION:waka SUSPEND...-->
+
+# CHANGING MY README SOON #
