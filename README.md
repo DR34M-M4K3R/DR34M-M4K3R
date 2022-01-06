@@ -1,7 +1,7 @@
 
 ![banner](https://user-images.githubusercontent.com/67145585/139498733-a94b01bd-717d-4698-b6fc-7838a2600b84.png)
 [![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/wakatime-stats/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
-[![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/update-gh-activity/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions)
+[![Actions Status](https://github.com/DR34M-M4K3R/DR34M-M4K3R/workflows/update-gh-activity/badge.svg)](https://github.com/DR34M-M4K3R/DR34M-M4K3R/actions) (the fail is normal)
 ![](https://visitor-badge.glitch.me/badge?page_id=DR34M-M4K3R.DR34M-M4K3R)
 
 banner: https://github.com/liyasthomas/banner
