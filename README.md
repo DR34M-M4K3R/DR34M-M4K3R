@@ -9,7 +9,7 @@ banner: https://github.com/liyasthomas/banner
 
 
 <p align="center">
-  <a href="https://discord.gg/FPhHhBG25d">
+  <a href="https://discord.gg/3VEeEdSeVv">
   <img alig src="https://discordapp.com/api/guilds/858046559316344852/widget.png?style=banner3" />
 </p>
 
